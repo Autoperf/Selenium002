@@ -9,6 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 public class ActionClass {
 
 public static WebDriver driver;
+//new code added
 	
 	public static void main(String args[]) {
 	
